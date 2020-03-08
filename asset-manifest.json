@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-js-infinite-scrolling.git/static/css/main.49c8ed4e.chunk.css",
+    "main.js": "/react-js-infinite-scrolling.git/static/js/main.453bbfd2.chunk.js",
+    "main.js.map": "/react-js-infinite-scrolling.git/static/js/main.453bbfd2.chunk.js.map",
+    "runtime-main.js": "/react-js-infinite-scrolling.git/static/js/runtime-main.255163cf.js",
+    "runtime-main.js.map": "/react-js-infinite-scrolling.git/static/js/runtime-main.255163cf.js.map",
+    "static/js/2.cca6ecd2.chunk.js": "/react-js-infinite-scrolling.git/static/js/2.cca6ecd2.chunk.js",
+    "static/js/2.cca6ecd2.chunk.js.map": "/react-js-infinite-scrolling.git/static/js/2.cca6ecd2.chunk.js.map",
+    "index.html": "/react-js-infinite-scrolling.git/index.html",
+    "precache-manifest.d3a0d7c22078ae74f1bd2c64ab53c14a.js": "/react-js-infinite-scrolling.git/precache-manifest.d3a0d7c22078ae74f1bd2c64ab53c14a.js",
+    "service-worker.js": "/react-js-infinite-scrolling.git/service-worker.js",
+    "static/css/main.49c8ed4e.chunk.css.map": "/react-js-infinite-scrolling.git/static/css/main.49c8ed4e.chunk.css.map",
+    "static/js/2.cca6ecd2.chunk.js.LICENSE.txt": "/react-js-infinite-scrolling.git/static/js/2.cca6ecd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.255163cf.js",
+    "static/js/2.cca6ecd2.chunk.js",
+    "static/css/main.49c8ed4e.chunk.css",
+    "static/js/main.453bbfd2.chunk.js"
+  ]
+}
